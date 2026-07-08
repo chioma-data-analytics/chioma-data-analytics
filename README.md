@@ -1,4 +1,4 @@
-# Hi there, I'm Chioma Obioha 👋
+# Hi, I'm Chioma Obioha 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
