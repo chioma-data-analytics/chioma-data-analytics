@@ -12,13 +12,14 @@ I enjoy working with data cleaning, exploratory data analysis (EDA), dashboard d
 
 I'm a Data Analyst with practical experience in transforming raw data into meaningful insights that support business and operational decision-making. My work involves collecting, cleaning, analyzing, and visualizing data using Excel, SQL, Python, and Power BI to uncover trends, solve business problems, and communicate findings effectively.
 
-In my current role at Kinlos Capital Partners, I analyze investment and operational data, monitor loan portfolios, develop Excel-based solutions, and support regulatory reporting. Beyond my professional role, I enjoy building end-to-end analytics projects involving exploratory data analysis (EDA), interactive dashboards, and predictive models using machine learning algorithms such as Linear Regression, Logistic Regression, and K-Means Clustering.
+I enjoy building end-to-end analytics projects involving exploratory data analysis (EDA), interactive dashboards, and predictive models using machine learning algorithms such as Linear Regression, Logistic Regression, and K-Means Clustering.
 
 I'm also passionate about sharing knowledge. As a Data Analytics Instructor, I've trained aspiring analysts in Excel and Power BI, developed learning materials, and guided students through practical, project-based learning to help them build real-world analytical skills.
 
 I believe data is most valuable when it helps people make better decisions. That's why I focus on creating analyses and visualizations that are clear, actionable, and relevant to business needs. I'm continuously learning, expanding my technical skills, and building projects that strengthen my expertise in analytics, business intelligence, and machine learning.
 
-Currently strengthening my Python and Machine Learning skills and Sharing practical data analytics projects on YouTube
+## 🛠️ What I'm currently working on
+I am strengthening my Python and Machine Learning skills in a 60 dAYS CHALLENGW and sharing practical data analytics projects on YouTube
 
 ---
 
