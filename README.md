@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Chioma Obioha 👋
 
-<!--
-**chioma-data-analytics/chioma-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Excel | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into actionable insights that help businesses make informed decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data cleaning, exploratory data analysis (EDA), dashboard development, and predictive modeling while continuously building real-world projects.
+
+---
+
+## 🚀 About Me
+
+- 📍 Abuja, Nigeria
+- 📊 Data Analyst
+- 🎓 Google Data Analytics Professional Certificate
+- 🌱 Currently strengthening my Python and Machine Learning skills
+- 🎥 Sharing practical data analytics projects on YouTube
+
+---
+
+## 🛠️ Technical Skills
+
+- 📊 Excel (Power Query, Pivot Tables, Power Pivot)
+- 📈 Power BI
+- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- 🗄️ SQL (PostgreSQL)
+- 📉 Data Cleaning
+- 📊 Data Visualization
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Predictive Modeling
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 📈 Power BI Dashboards
+- 📊 Exploratory Data Analysis (EDA)
+- 🤖 Diabetes Prediction using Logistic Regression
+- 📉 Student Score Prediction using Linear Regression
+- 📊 Customer Segmentation using K-Means Clustering
+
+---
+
+## 🌐 Portfolio
+
+- 🎥 YouTube: https://www.youtube.com/@DataAnalyticswithChioma
+- 💻 GitHub Projects: https://github.com/chioma-data-analytics
+- 💼 LinkedIn: https://www.linkedin.com/in/chioma-obioha
+
+---
+
+## 📫 Contact
+
+📧 chiomaobioha95@gmail.com
+
+Thanks for visiting my profile! 😊
