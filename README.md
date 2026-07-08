@@ -17,9 +17,10 @@ I enjoy building end-to-end analytics projects involving exploratory data analys
 I'm also passionate about sharing knowledge. As a Data Analytics Instructor, I've trained aspiring analysts in Excel and Power BI, developed learning materials, and guided students through practical, project-based learning to help them build real-world analytical skills.
 
 I believe data is most valuable when it helps people make better decisions. That's why I focus on creating analyses and visualizations that are clear, actionable, and relevant to business needs. I'm continuously learning, expanding my technical skills, and building projects that strengthen my expertise in analytics, business intelligence, and machine learning.
+---
 
 ## 🛠️ What I'm currently working on
-I am strengthening my Python and Machine Learning skills in a 60 dAYS CHALLENGW and sharing practical data analytics projects on YouTube
+I am currently strengthening my Python and Machine Learning skills in a 60 dAYS CHALLENGW and sharing practical data analytics projects on YouTube
 
 ---
 
