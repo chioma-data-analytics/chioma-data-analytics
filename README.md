@@ -1,6 +1,10 @@
 # Hi there, I'm Chioma Obioha 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+Analyst;Python+for+Data+Analysis;Data+Analytics+Instructor)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+</p>
 
 I'm passionate about transforming raw data into actionable insights that help businesses make informed decisions.
 
