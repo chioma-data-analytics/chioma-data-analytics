@@ -24,7 +24,7 @@ I believe data is most valuable when it helps people make better decisions. That
 
 
 ## 🛠️ What I'm currently working on
-I am currently strengthening my Python and Machine Learning skills in a 60 dAYS CHALLENGW and sharing practical data analytics projects on YouTube
+I am currently strengthening my Python and Machine Learning skills in a 60 days Challenge, starting the 4th July 2026. I also start sharing practical data analytics projects on YouTube
 
 ---
 
