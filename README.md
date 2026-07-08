@@ -1,6 +1,6 @@
 # Hi there, I'm Chioma Obioha 👋
 
-## 📊 Data Analyst | Excel | SQL | Python | Power BI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+Analyst;Python+for+Data+Analysis;Data+Analytics+Instructor)](https://git.io/typing-svg)
 
 I'm passionate about transforming raw data into actionable insights that help businesses make informed decisions.
 
