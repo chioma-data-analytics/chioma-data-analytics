@@ -6,9 +6,6 @@
   </a>
 </p>
 
-I'm passionate about transforming raw data into actionable insights that help businesses make informed decisions.
-
-I enjoy working with data cleaning, exploratory data analysis (EDA), dashboard development, and predictive modeling while continuously building real-world projects.
 
 ---
 
