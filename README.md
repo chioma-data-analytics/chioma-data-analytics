@@ -18,7 +18,6 @@ I'm also passionate about sharing knowledge. As a Data Analytics Instructor, I'v
 
 I believe data is most valuable when it helps people make better decisions. That's why I focus on creating analyses and visualizations that are clear, actionable, and relevant to business needs. I'm continuously learning, expanding my technical skills, and building projects that strengthen my expertise in analytics, business intelligence, and machine learning.
 
----
 
 ## 🛠️ What I'm currently working on
 I am currently strengthening my Python and Machine Learning skills in a 60 dAYS CHALLENGW and sharing practical data analytics projects on YouTube
