@@ -18,45 +18,45 @@ I'm a Data Analyst with practical experience in transforming raw data into meani
 
 I enjoy building end-to-end analytics projects involving exploratory data analysis (EDA), interactive dashboards, and predictive models using machine learning algorithms such as Linear Regression, Logistic Regression, and K-Means Clustering.
 
-I'm also passionate about sharing knowledge. As a Data Analytics Instructor, I've trained aspiring analysts in Excel and Power BI, developed learning materials, and guided students through practical, project-based learning to help them build real-world analytical skills.
+I'm also passionate about sharing knowledge. As a Data Analytics Instructor, I've trained aspiring analysts, and guided them through practical, project-based learning to help them build real-world analytical skills.
 
 I believe data is most valuable when it helps people make better decisions. That's why I focus on creating analyses and visualizations that are clear, actionable, and relevant to business needs. I'm continuously learning, expanding my technical skills, and building projects that strengthen my expertise in analytics, business intelligence, and machine learning.
 
 
 ## 🛠️ What I'm currently working on
-I am currently strengthening my Python and Machine Learning skills in a 60 days Challenge, starting the 4th July 2026. I also start sharing practical data analytics projects on YouTube
+I am currently strengthening my Python and Machine Learning skills in a 60 days Challenge, starting the 4th July 2026. I also working on sharing practical data analytics projects on YouTube
 
 ---
 
 ## 🛠️ Technical Skills
 
-- 📊 Excel (Power Query, Pivot Tables, Power Pivot)
-- 📈 Power BI
-- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- 🗄️ SQL (PostgreSQL)
-- 📉 Data Cleaning
-- 📊 Data Visualization
-- 📈 Exploratory Data Analysis (EDA)
-- 🤖 Predictive Modeling
-- 🔧 Git & GitHub
+-  Excel (Power Query, Pivot Tables, Power Pivot)
+-  Power BI
+-  Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+-  SQL (PostgreSQL)
+-  Data Cleaning
+-  Data Visualization
+-  Exploratory Data Analysis (EDA)
+-  Predictive Modeling
+-  Git & GitHub
 
 ---
 
 ## 📂 Featured Projects
 
-- 📈 Power BI Dashboards
-- 📊 Exploratory Data Analysis (EDA)
-- 🤖 Diabetes Prediction using Logistic Regression
-- 📉 Student Score Prediction using Linear Regression
-- 📊 Customer Segmentation using K-Means Clustering
+-  Power BI Dashboards
+-  Exploratory Data Analysis (EDA)
+-  Diabetes Prediction using Logistic Regression
+-  Student Score Prediction using Linear Regression
+-  Customer Segmentation using K-Means Clustering
 
 ---
 
 ## 🌐 Portfolio
 
-- 🎥 YouTube: https://www.youtube.com/@DataAnalyticswithChioma
-- 💻 GitHub Projects: https://github.com/chioma-data-analytics
-- 💼 LinkedIn: https://www.linkedin.com/in/chioma-obioha
+- YouTube: https://www.youtube.com/@DataAnalyticswithChioma
+- GitHub Projects: https://github.com/chioma-data-analytics
+- LinkedIn: https://www.linkedin.com/in/chioma-obioha
 
 ---
 
